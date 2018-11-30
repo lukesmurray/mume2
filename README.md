@@ -33,6 +33,7 @@ USAGE
 * [`mume2 goodbye [FILE]`](#mume-2-goodbye-file)
 * [`mume2 hello [FILE]`](#mume-2-hello-file)
 * [`mume2 help [COMMAND]`](#mume-2-help-command)
+* [`mume2 html [FILE]`](#mume-2-html-file)
 
 ## `mume2 goodbye [FILE]`
 
@@ -86,4 +87,20 @@ OPTIONS
 ```
 
 _See code: [@oclif/plugin-help](https://github.com/oclif/plugin-help/blob/v2.1.4/src/commands/help.ts)_
+
+## `mume2 html [FILE]`
+
+describe the command here
+
+```
+USAGE
+  $ mume2 html [FILE]
+
+OPTIONS
+  -f, --force
+  -h, --help       show CLI help
+  -n, --name=name  name to print
+```
+
+_See code: [src/commands/html.ts](https://github.com/lukesmurray/mume2/blob/v0.0.0/src/commands/html.ts)_
 <!-- commandsstop -->
