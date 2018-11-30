@@ -21,7 +21,7 @@ $ npm install -g mume2
 $ mume2 COMMAND
 running command...
 $ mume2 (-v|--version|version)
-mume2/0.1.0 linux-x64 node-v11.1.0
+mume2/0.1.1 linux-x64 node-v11.1.0
 $ mume2 --help [COMMAND]
 USAGE
   $ mume2 COMMAND
@@ -185,7 +185,7 @@ EXAMPLE
   $ mume2 html '*.md' -o html --imageFolderPath ./img --enableScriptExecution true
 ```
 
-_See code: [src/commands/html.ts](https://github.com/lukesmurray/mume2/blob/v0.1.0/src/commands/html.ts)_
+_See code: [src/commands/html.ts](https://github.com/lukesmurray/mume2/blob/v0.1.1/src/commands/html.ts)_
 
 ## `mume2 update [CHANNEL]`
 
