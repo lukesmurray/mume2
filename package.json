@@ -1,7 +1,7 @@
 {
   "name": "mume2",
   "description": "command line interface for the mume markdown converter.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Luke Murray @lukesmurray",
   "bin": {
     "mume2": "./bin/run"
